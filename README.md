@@ -7,10 +7,8 @@ This project focuses on **game logic, UI/UX design, micro-animations, and clean 
 
 ---
 
-## Live Demo
- **Play the game here:**  
- https://your-live-link-here
-
+## Play the game here: 
+ https://ehtishamaflaq3.github.io/bubble-hit-game/
 ---
 
 ## Preview
