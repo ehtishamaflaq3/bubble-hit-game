@@ -5,11 +5,9 @@ Common!!! Test your speed, focus, and reflexes by clicking the correct number be
 
 This project focuses on **game logic, UI/UX design, micro-animations, and clean DOM manipulation**.
 
----
 
 ## Play the game here: 
  https://ehtishamaflaq3.github.io/bubble-hit-game/
----
 
 ## Preview
 
