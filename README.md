@@ -19,8 +19,6 @@ GAME-OVER
 
 <img width="1919" height="845" alt="Screenshot 2026-01-28 213333" src="https://github.com/user-attachments/assets/6f7a1510-e9c4-4236-93d4-31c919a3e9ed" />
 
----
-
 ## Features
 
 -  **Dynamic Target System** – A random number is generated every round
