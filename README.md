@@ -28,8 +28,6 @@ GAME-OVER
 - **Event Delegation** for better performance
 - **Responsive Layout** (works on most screen sizes)
 
----
-
 ## Future Improvements
 
 - Sound effects
