@@ -36,8 +36,6 @@ GAME-OVER
 - Mobile-first responsiveness
 - Difficulty levels
 
----
-
 ## Author
 
 Ehtisham Aflaq
